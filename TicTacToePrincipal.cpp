@@ -1,9 +1,6 @@
 /**
  * \file TicTacToePrincipal.cpp
  * \brief Programme principal pour tester la classe TicTacToe
- * \author etudiant
- * \version 0.1
- * \date 2014-10-17
  */
 
 #include "TicTacToe.h"
