@@ -1,9 +1,6 @@
 /**
  * \file PolynomePrincipal.cpp
  * \brief Programme pilote démontrant les fonctionnalités des méthodes développées.
- * \author etudiant
- * \version 0.1
- * \date 2014-10-17
  */
 
 #include "Polynome.h"
