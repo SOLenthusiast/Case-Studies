@@ -1,9 +1,6 @@
 /**
  * \file TicTacToe.cpp
  * \brief  Jeu tic-tac-toe, implémentation de la classe TicTacToe
- * \author etudiant
- * \version 0.1
- * \date 2014-10-17
  */
 
 #include "TicTacToe.h"
