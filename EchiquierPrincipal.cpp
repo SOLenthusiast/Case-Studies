@@ -1,8 +1,6 @@
 /*
  * EchiquierPrincipal.cpp
  *
- *  Created on: 2014-10-10
- *      Author: etudiant
  */
 
 #include "Echiquier.h"
