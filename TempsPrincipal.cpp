@@ -1,9 +1,6 @@
 /**
  * \file TempsPrincipal.cpp
  * \brief Programme pilote pour tester la classe Temps
- * \author etudiant
- * \version 0.1
- * \date 2014-10-10
  */
 
 #include "Temps.h"
