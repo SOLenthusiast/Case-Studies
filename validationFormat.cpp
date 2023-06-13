@@ -1,9 +1,5 @@
 //
 //  main.cpp
-//  tp1
-//
-//  Created by Mohamed Boubacar on 2014-10-21.
-//  Copyright (c) 2014 Mohamed Boubacar. All rights reserved.
 //
 
 #include <iostream>
