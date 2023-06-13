@@ -1,9 +1,7 @@
 /*
- * Echiquier.h
- *
- *  Created on: 2014-10-10
- *      Author: etudiant
+ * Echiquier.cpp
  */
+
 
 #ifndef ECHIQUIER_H_
 #define ECHIQUIER_H_
