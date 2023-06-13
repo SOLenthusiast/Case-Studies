@@ -1,8 +1,5 @@
 /*
  * principal.cpp
- *
- *  Created on: 2014-09-26
- *      Author: etudiant
  */
 
 #include "fonctions.h"
