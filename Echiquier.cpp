@@ -1,5 +1,5 @@
 /*
- * Echiquier.cpp
+ *  Echiquier.cpp
  */
 
 #include "Echiquier.h"
